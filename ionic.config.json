@@ -1,0 +1,7 @@
+{
+  "name": "morte",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
